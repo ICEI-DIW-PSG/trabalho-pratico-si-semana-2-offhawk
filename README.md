@@ -3,9 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Gustavo Henrique Fernandes Santana
+- Matricula: 00906187
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela da página criada](public/site.png)
